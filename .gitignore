@@ -2,3 +2,6 @@ bazel-bin
 bazel-knfm
 bazel-out
 bazel-testlogs
+.ijwb
+
+MODULE.bazel.lock
